@@ -58,7 +58,7 @@ Image:
 
 Vídeo:
 
-[![Aland returns](https://img.youtube.com/vi/MWiq-YC4OyU/maxresdefault.jpg)](https://www.youtube.com/watch?v=MWiq-YC4OyU)
+[<img src="https://img.youtube.com/vi/MWiq-YC4OyU/maxresdefault.jpg" width="50%">](https://youtu.be/MWiq-YC4OyU>)
 
 Play: https://juanmoralesmsx.github.io/alandreturns/?disk=Aland.dsk
 
