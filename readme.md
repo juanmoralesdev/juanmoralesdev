@@ -50,19 +50,16 @@ También hago videojuegos para VR basic.
 
 ### Aland Returns
 
-![Download](https://img.shields.io/github/downloads/juanmoralesdev/Aland-returns/v1.0.0/total)
-
-Image:
-
 <img src="aland-returns.PNG" width="300" />
 
-Vídeo:
+<a href="https://www.youtube.com/watch?v=MWiq-YC4OyU" target="_blank"><img src="youtube.PNG" width="100" /></a>
 
-[<img src="https://img.youtube.com/vi/MWiq-YC4OyU/maxresdefault.jpg" width="50%">](https://youtu.be/MWiq-YC4OyU>)
 
-Play: https://juanmoralesmsx.github.io/alandreturns/?disk=Aland.dsk
+<a href="https://juanmoralesmsx.github.io/alandreturns/?disk=Aland.dsk" target="_blank">Play</a>
 
-<a href="(https://github.com/juanmoralesdev/Aland-returns" target="_blank">Proyect</a>
+<a href="https://github.com/juanmoralesdev/Aland-returns" target="_blank">Proyect</a>
+
+![Download](https://img.shields.io/github/downloads/juanmoralesdev/Aland-returns/v1.0.0/total)
 
 ---
 
