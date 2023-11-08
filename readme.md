@@ -47,9 +47,9 @@ También hago videojuegos para VR basic y VR script.
 ## My games
 
 
-### [Aland Returns 2023] (https://github.com/juanmoralesdev/aland-returns)
+### [Aland Returns 2023] (https://github.com/juanmoralesdev/Aland-returns)
 
-![GitHub release (by tag)](https://img.shields.io/github/downloads/juanmoralesdev/aland-returns/v1.0.0/total)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/juanmoralesdev/Aland-returns/v1.0.0/total)
 
 image:
 
