@@ -3,6 +3,7 @@
 </center>
 
 ---
+---
 
 ## Hi there :hand:
 
@@ -20,6 +21,7 @@ Un estándar de microordenador doméstico de 8 bits comercializado durante los a
 Lo que más me gusta es la programación MSX Basic.
 También hago videojuegos para VR basic.
 
+---
 ---
 
 ## Contact
@@ -39,34 +41,36 @@ También hago videojuegos para VR basic.
 <!-- mailto:Juanmoralesgui@gmail.com -->
 [![Email](https://img.shields.io/badge/Juanmoralesgui@gmail.com-blue)](mailto:Juanmoralesgui@gmail.com)
 
-
-
-
+---
 ---
 
 ## My games
 
 
-### [Aland Returns 2023] (https://github.com/juanmoralesdev/Aland-returns)
 
-![GitHub release (by tag)](https://img.shields.io/github/downloads/juanmoralesdev/Aland-returns/v1.0.0/total)
+### Aland Returns
 
-image:
+![Download](https://img.shields.io/github/downloads/juanmoralesdev/Aland-returns/v1.0.0/total)
 
-<img src="alard-returns.PNG" width="300" />
+Image:
+
+<img src="aland-returns.PNG" width="300" />
 
 Vídeo:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=MWiq-YC4OyU
-" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=MWiq-YC4OyU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[![Aland returns](http://img.youtube.com/vi/https://www.youtube.com/watch?v=MWiq-YC4OyU/maxresdefault.jpg)](https://www.youtube.com/watch?v=MWiq-YC4OyU)
+
 
 Play:
 
-
 https://juanmoralesmsx.github.io/alandreturns/?disk=Aland.dsk
 
+Proyect
 
+[Aland Returns 2023] (https://github.com/juanmoralesdev/Aland-returns)
+
+---
 
 
 ### [The Hole 2022] ()   
