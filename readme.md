@@ -58,17 +58,11 @@ Image:
 
 Vídeo:
 
+[![Aland returns](https://img.youtube.com/vi/MWiq-YC4OyU/maxresdefault.jpg)](https://www.youtube.com/watch?v=MWiq-YC4OyU)
 
-[![Aland returns](https://www.youtube.com/watch?v=MWiq-YC4OyU/maxresdefault.jpg)](https://www.youtube.com/watch?v=MWiq-YC4OyU)
+Play: https://juanmoralesmsx.github.io/alandreturns/?disk=Aland.dsk
 
-
-Play:
-
-https://juanmoralesmsx.github.io/alandreturns/?disk=Aland.dsk
-
-Proyect
-
-[Aland Returns 2023] (https://github.com/juanmoralesdev/Aland-returns)
+<a href="(https://github.com/juanmoralesdev/Aland-returns" target="_blank">Proyect</a>
 
 ---
 
