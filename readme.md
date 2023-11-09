@@ -1,5 +1,5 @@
 <center>
-<img src="images/juan.PNG" />
+<img src="images/juan.png" />
 </center>
 
 ---
