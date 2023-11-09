@@ -27,19 +27,16 @@ También hago videojuegos para VR basic.
 ## Contact
 
 <!-- twitter: https://twitter.com/Juanmoralesgui1 -->
-![Static Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&labelColor=white&link=https://twitter.com/Juanmoralesgui1)
-
-
-
+[![Static Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&labelColor=white&link=https://twitter.com/Juanmoralesgui1)](https://twitter.com/Juanmoralesgui1)
 
 
 
 <!-- youtube: https://www.youtube.com/@JuanMorales-sf1ll -->
-![Static Badge](https://img.shields.io/badge/Youyube-red?logo=youtube&labelColor=black&link=https://www.youtube.com/@JuanMorales-sf1ll)
+[![Static Badge](https://img.shields.io/badge/Youyube-red?logo=youtube&labelColor=black&link=https://www.youtube.com/@JuanMorales-sf1ll)](https://www.youtube.com/@JuanMorales-sf1ll)
 
 
 <!-- github: https://github.com/juanmoralesdev -->
-![GitHub User's stars](https://img.shields.io/github/stars/juanmoralesdev?logo=github)
+[![GitHub User's stars](https://img.shields.io/github/stars/juanmoralesdev?logo=github)](https://github.com/juanmoralesdev)
 
 
 
