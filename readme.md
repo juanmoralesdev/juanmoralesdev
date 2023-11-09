@@ -1,5 +1,5 @@
 <center>
-<img src="juan.PNG" />
+<img src="images/juan.PNG" />
 </center>
 
 ---
@@ -83,7 +83,7 @@ También hago videojuegos para VR basic.
 
 ---
 
-Survival Rooms 2021
+Survival Rooms
 
 <!--2021-->
 
