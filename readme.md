@@ -27,11 +27,13 @@ También hago videojuegos para VR basic.
 ## Contact
 
 <!-- twitter: https://twitter.com/Juanmoralesgui1 -->
-![Static Badge](https://img.shields.io/badge/twitter-blue?logo=twitter&labelColor=white&link=https%3A%2F%2Ftwitter.com%2FJuanmoralesgui1)
+![Static Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&labelColor=white&link=https%3A%2F%2Ftwitter.com%2FJuanmoralesgui1)
+
 
 
 <!-- youtube: https://www.youtube.com/@JuanMorales-sf1ll -->
-![Static Badge](https://img.shields.io/badge/Youtube-red?logo=youtube&labelColor=black&link=https%3A%2F%2Fwww.youtube.com%2F%40JuanMorales-sf1ll)
+![Static Badge](https://img.shields.io/badge/Youyube-red?logo=youtube&labelColor=black&link=https%3A%2F%2Fwww.youtube.com%2F%40JuanMorales-sf1ll)
+
 
 <!-- github: https://github.com/juanmoralesdev -->
 ![GitHub User's stars](https://img.shields.io/github/stars/juanmoralesdev?logo=github)
@@ -49,16 +51,14 @@ También hago videojuegos para VR basic.
 <center>
 
 
-### Aland Returns
+### Aland Returns 
 
+<!--2023-->
 
-<img src="aland-returns.PNG" width="300" />
-
-
-
+<img src="images/aland-returns.PNG" width="300" />
 
 <a href="https://www.youtube.com/watch?v=MWiq-YC4OyU" target="_blank">Video</a> | 
-<a href="https://juanmoralesmsx.github.io/alandreturns/?disk=Aland.dsk" target="_blank">Play</a> | 
+<a href="https://juanmoralesmsx.github.io/alandreturns/?disk=games/Aland.dsk" target="_blank">Play</a> | 
 <a href="https://github.com/juanmoralesdev/Aland-returns" target="_blank">Proyect</a> | 
 <a href="https://github.com/juanmoralesdev/Aland-returns/releases/tag/v1.0.0" target="_blank">Download</a>
 
@@ -68,131 +68,156 @@ También hago videojuegos para VR basic.
 ---
 
 
-### [The Hole 2022] ()   
+### The Hole
 
-image:
-
-<img src="the-hole.PNG" width="300" />
-
-Vídeo:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=QoctozRxOYU
-" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=QoctozRxOYU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-Play:
+<!--2022 --> 
 
 
+<img src="images/the-hole.PNG" width="300" />
 
-### [Survival Rooms 2021] ()
-
-image:
-
-<img src="survival-rooms.PNG" width="300" />
-
-Vídeo:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=XQc4_OUd9x0
-" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=XQc4_OUd9x0/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-Play:
+<a href="https://www.youtube.com/watch?v=XQc4_OUd9x0" target="_blank">Video</a> | 
+<a href="https://juanmoralesmsx.github.io/juanmoralesdev/?disk=games/THE-HOLE.dsk" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
 
 
-### [Troubled River 2021] ()
+---
 
-image:
+Survival Rooms 2021
 
-<img src="Troubled-River.PNG" width="300" />
+<!--2021-->
 
-Vídeo:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=MWiq-YC4OyU
-" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=MWiq-YC4OyU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-Play:
+<img src="images/survival-rooms.PNG" width="300" />
 
 
-### [The Nurse 2021] ()
+<a href="https://www.youtube.com/watch?v=XQc4_OUd9x0" target="_blank">Video</a> | 
+<a href="https://juanmoralesmsx.github.io/juanmoralesdev/?disk=games/survival.dsk" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
 
-image:
-
-<img src="The-Nurse.PNG" width="300" />
-
-Vídeo:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=2sB6jocbDIw
-" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=2sB6jocbDIw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-Play:
+---
 
 
-### [Demonia 2020] ()
+### Troubled River 
 
-image:
-
-<img src="demonia.PNG" width="300" />
-
-Vídeo:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=whEHgEa8UXA&t=558s" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=whEHgEa8UXA&t=558s/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-Play:
+<!--2021-->
 
 
-### [Tamari 2021] ()
-
-image:
-
-<img src="tamari.PNG" width="300" />
-
-Vídeo:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=SqCZQ0ySv5U&t=58s" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=SqCZQ0ySv5U&t=58s/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-Play:
+<img src="images/Troubled-River.PNG" width="300" />
 
 
-### [Aventuras de Tristán 2019] ()
-
-image:
-
-<img src="Aventuras-de-Tristan.PNG" width="300" />
-
-Vídeo:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=4H9XX8egUHk&t=330s" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=4H9XX8egUHk&t=330s/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-Play:
+<a href="https://www.youtube.com/watch?v=MWiq-YC4OyU" target="_blank">Video</a> | 
+<a href="https://juanmoralesmsx.github.io/juanmoralesdev/?disk=games/troubleriver.dsk" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
 
 
-### [Atrapado en la Mina 2019] ()
 
-image:
+---
 
-<img src="atrapado-en-la-mina.PNG" width="300" />
+### The Nurse 
 
-Vídeo:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=qsbkUwAmRVs&t=221s" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=qsbkUwAmRVs&t=221s/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-Play:
+<!--2021-->
 
 
-### [Ghost Park 2019] ()
+<img src="images/The-Nurse.PNG" width="300" />
 
-image:
+<a href="https://www.youtube.com/watch?v=2sB6jocbDIw" target="_blank">Video</a> | 
+<a href="https://juanmoralesmsx.github.io/juanmoralesdev/?disk=games/thenurse.dsk" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
 
-<img src="Ghost-Park.PNG" width="300" />
+---
 
-Vídeo:
+### Demonia
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=tGlfpq3yZWM
-" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=tGlfpq3yZWM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<!--2020-->
 
-Play:
+
+<img src="images/demonia.PNG" width="300" />
+
+
+
+<a href="https://www.youtube.com/watch?v=whEHgEa8UXA&t=558s" target="_blank">Video</a> | 
+<a href="https://juanmoralesmsx.github.io/juanmoralesdev/?disk=games/Demonia.dsk" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
+
+
+---
+
+### Tamari
+
+<!--2021-->
+
+<img src="images/tamari.PNG" width="300" />
+
+
+<a href="https://www.youtube.com/watch?v=SqCZQ0ySv5U&t=58s" target="_blank">Video</a> | 
+<a href="https://juanmoralesmsx.github.io/juanmoralesdev/?tape=games/TAMARI.cas" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
+
+
+---
+
+### Aventuras de Tristán 
+
+<!--2019-->
+
+<img src="images/Aventuras-de-Tristan.PNG" width="300" />
+
+https://www.youtube.com/watch?v=4H9XX8egUHk&t=330s
+
+
+<a href="https://www.youtube.com/watch?v=SqCZQ0ySv5U&t=58s" target="_blank">Video</a> | 
+<a href="https://juanmoralesmsx.github.io/juanmoralesdev/?tape=games/tristan.cas" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
+
+
+---
+
+
+### Atrapado en la Mina
+
+<!--2019-->
+
+<img src="images/atrapado-en-la-mina.PNG" width="300" />
+
+<a href="https://www.youtube.com/watch?v=e07z883E8AM" target="_blank">Video</a> | 
+<a href="https://www.msxgamesworld.com/software-emulator.php?id=5607" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
+
+---
+
+### Ghost Park
+
+<!--2019-->
+
+
+
+<img src="images/Ghost-Park.PNG" width="300" />
+
+
+<a href="https://www.youtube.com/watch?v=tGlfpq3yZWM" target="_blank">Video</a> | 
+<a href="https://juanmoralesmsx.github.io/juanmoralesdev/?tape=ghost-park.cas" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
+
+---
+
+### Ninja relove
+
+<!--2019-->
+
+<img src="images/ninja-relove.PNG" width="300" />
+
+
+<a href="https://www.youtube.com/watch?v=tGlfpq3yZWM" target="_blank">Video</a> | 
+<a href="https://juanmoralesmsx.github.io/juanmoralesdev/?tape=ninja-relove.dsk" target="_blank">Play</a> | 
+<a href="" target="_blank">Proyect</a> | 
+<a href="" target="_blank">Download</a>
 
 </center>
