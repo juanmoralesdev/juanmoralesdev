@@ -1,5 +1,5 @@
-ķ<center>
-<img src="images/baner2.png" />
+<center>
+<img src="images/baner3.png" style="display: block; margin: 0 auto" />
 </center>
 
 ---
@@ -11,9 +11,9 @@
 
 > Mi nombre es Juan Morales y programo en mis ratos libres.
 
-I am a fan of the MSX system.
+I'm a MSX fan.
 An 8-bit home microcomputer standard marketed during the 1980s.
-What I like the most is MSX Basic programming.
+I mahe videogames in MSX basic.
 I also make video games for VR basic.
 
 Soy un seguidor del sistema MSX.
@@ -58,7 +58,7 @@ También hago videojuegos para VR basic.
 <img src="images/aland-returns.PNG" width="300" />
 
 <a href="https://www.youtube.com/watch?v=MWiq-YC4OyU" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/alandreturns/?disk=games/Aland.dsk" target="_blank">Play</a> | 
+<a href="https://juanmoralesdev.github.io/Aland-returns/?disk=Aland.dsk" target="_blank">Play</a> | 
 <a href="https://github.com/juanmoralesdev/Aland-returns" target="_blank">Project</a> | 
 <a href="https://github.com/juanmoralesdev/Aland-returns/releases/tag/v1.0.0" target="_blank">Download</a>
 
@@ -76,9 +76,9 @@ También hago videojuegos para VR basic.
 <img src="images/the-hole.PNG" width="300" />
 
 <a href="https://www.youtube.com/watch?v=XQc4_OUd9x0" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/THE-HOLE.dsk" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/THE-HOLE.dsk" target="_blank">Play (write the command run"thehole1".bas)</a> | 
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 
 ---
@@ -92,8 +92,8 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=XQc4_OUd9x0" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/survival.dsk" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 ---
 
@@ -107,9 +107,9 @@ Survival Rooms
 
 
 <a href="https://www.youtube.com/watch?v=MWiq-YC4OyU" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/troubleriver.dsk" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/troubleriver.dsk" target="_blank">Play (write run"mares.bas")</a> | 
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 
 
@@ -123,9 +123,9 @@ Survival Rooms
 <img src="images/The-Nurse.PNG" width="300" />
 
 <a href="https://www.youtube.com/watch?v=2sB6jocbDIw" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/thenurse.dsk" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/thenurse.dsk" target="_blank">Play (write run"nurse.bas")</a> | 
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 ---
 
@@ -140,8 +140,8 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=whEHgEa8UXA&t=558s" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/Demonia.dsk" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 
 ---
@@ -154,9 +154,9 @@ Survival Rooms
 
 
 <a href="https://www.youtube.com/watch?v=SqCZQ0ySv5U&t=58s" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?tape=games/TAMARI.cas" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?P=RAM128,NODISK&tape=games/TAMARI.cas" target="_blank">Play</a> | 
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 
 ---
@@ -171,9 +171,9 @@ https://www.youtube.com/watch?v=4H9XX8egUHk&t=330s
 
 
 <a href="https://www.youtube.com/watch?v=SqCZQ0ySv5U&t=58s" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?tape=games/tristan.cas" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?P=RAM128,NODISK&tape=games/tristan.cas" target="_blank">Play</a> | 
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 
 ---
@@ -187,8 +187,8 @@ https://www.youtube.com/watch?v=4H9XX8egUHk&t=330s
 
 <a href="https://www.youtube.com/watch?v=e07z883E8AM" target="_blank">Video</a> | 
 <a href="https://www.msxgamesworld.com/software-emulator.php?id=5607" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 ---
 
@@ -202,9 +202,9 @@ https://www.youtube.com/watch?v=4H9XX8egUHk&t=330s
 
 
 <a href="https://www.youtube.com/watch?v=tGlfpq3yZWM" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?tape=ghost-park.cas" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?P=RAM128,NODISK&tape=ghost-park.cas" target="_blank">Play</a> | 
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 ---
 
@@ -217,7 +217,7 @@ https://www.youtube.com/watch?v=4H9XX8egUHk&t=330s
 
 <a href="https://www.youtube.com/watch?v=tGlfpq3yZWM" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?tape=ninja-relove.dsk" target="_blank">Play</a> | 
-<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>
+<!--<a href="" target="_blank">Project</a> | 
+<a href="" target="_blank">Download</a>-->
 
 </center>
