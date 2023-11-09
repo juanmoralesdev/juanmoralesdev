@@ -167,7 +167,7 @@ Survival Rooms
 
 <img src="images/Aventuras-de-Tristan.PNG" width="300" />
 
-https://www.youtube.com/watch?v=4H9XX8egUHk&t=330s
+
 
 
 <a href="https://www.youtube.com/watch?v=SqCZQ0ySv5U&t=58s" target="_blank">Video</a> | 
