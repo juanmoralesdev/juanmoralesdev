@@ -34,16 +34,17 @@ También hago videojuegos para VR basic.
 <!-- youtube: https://www.youtube.com/@JuanMorales-sf1ll -->
 [![Static Badge](https://img.shields.io/badge/Youyube-red?logo=youtube&labelColor=black&link=https://www.youtube.com/@JuanMorales-sf1ll)](https://www.youtube.com/@JuanMorales-sf1ll)
 
+<!-- mailto:Juanmoralesgui@gmail.com -->
+<!--[![Email](https://img.shields.io/badge/Juanmoralesgui@gmail.com-blue)](mailto:Juanmoralesgui@gmail.com)-->
+![Static Badge](https://img.shields.io/badge/Email-red?logo=minutemailer&link=mailto:Juanmoralesgui@gmail.com)
+
 
 <!-- github: https://github.com/juanmoralesdev -->
 [![GitHub User's stars](https://img.shields.io/github/stars/juanmoralesdev?logo=github)](https://github.com/juanmoralesdev)
 
 
 
-<!-- mailto:Juanmoralesgui@gmail.com -->
-<!--[![Email](https://img.shields.io/badge/Juanmoralesgui@gmail.com-blue)](mailto:Juanmoralesgui@gmail.com)-->
 
-![Static Badge](https://img.shields.io/badge/Email-red?logo=minutemailer&link=mailto:Juanmoralesgui@gmail.com)
 
 ---
 ---
@@ -81,7 +82,7 @@ También hago videojuegos para VR basic.
 <a href="https://www.youtube.com/watch?v=QoctozRxOYU" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/THE-HOLE.dsk" target="_blank">Play (write the command run"thehole1".bas)</a> | 
 <a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/THE-HOLE.dsk" target="_blank">Download</a>
-<!--<a href="" target="_blank">Project</a> | 
+<!--<a href="" target="_blank">Project</a> | -->
 
 
 
