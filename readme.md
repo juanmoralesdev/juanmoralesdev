@@ -1,6 +1,6 @@
 <div align="center">
 <img src="images/baner3.png" style="display: block; margin: 0 auto" />
-
+</div>
 
 ---
 ---
@@ -50,7 +50,7 @@ También hago videojuegos para VR basic.
 
 ## My games
 
-<center>
+<div align="center">
 
 
 ### Aland Returns 
