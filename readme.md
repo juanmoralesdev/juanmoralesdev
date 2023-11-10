@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 <img src="images/baner3.png" style="display: block; margin: 0 auto" />
 
 
@@ -222,4 +222,4 @@ Survival Rooms
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
 
-</center>
+</div>
