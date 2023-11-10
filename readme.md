@@ -80,7 +80,7 @@ También hago videojuegos para VR basic.
 
 <a href="https://www.youtube.com/watch?v=QoctozRxOYU" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/THE-HOLE.dsk" target="_blank">Play (write the command run"thehole1".bas)</a> | 
-<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/THE-HOLEsurvival.dsk" target="_blank">Download</a>
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/THE-HOLE.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
 
 
@@ -96,7 +96,7 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=XQc4_OUd9x0" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/survival.dsk" target="_blank">Play</a> | 
-<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/ghost-park.cas" target="_blank">Download</a>
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/survival.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
 
