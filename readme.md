@@ -41,7 +41,9 @@ También hago videojuegos para VR basic.
 
 
 <!-- mailto:Juanmoralesgui@gmail.com -->
-[![Email](https://img.shields.io/badge/Juanmoralesgui@gmail.com-blue)](mailto:Juanmoralesgui@gmail.com)
+<!--[![Email](https://img.shields.io/badge/Juanmoralesgui@gmail.com-blue)](mailto:Juanmoralesgui@gmail.com)-->
+
+![Static Badge](https://img.shields.io/badge/Email-red?logo=minutemailer&link=mailto:Juanmoralesgui@gmail.com)
 
 ---
 ---
@@ -58,7 +60,7 @@ También hago videojuegos para VR basic.
 <img src="images/aland-returns.PNG" width="300" />
 
 <a href="https://www.youtube.com/watch?v=MWiq-YC4OyU" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/Aland-returns/?disk=Aland.dsk" target="_blank">Play</a> | 
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/Aland.dsk" target="_blank">Play</a> | 
 <a href="https://github.com/juanmoralesdev/Aland-returns" target="_blank">Project</a> | 
 <a href="https://github.com/juanmoralesdev/Aland-returns/releases/tag/v1.0.0" target="_blank">Download</a>
 
@@ -75,7 +77,7 @@ También hago videojuegos para VR basic.
 
 <img src="images/the-hole.PNG" width="300" />
 
-<a href="https://www.youtube.com/watch?v=XQc4_OUd9x0" target="_blank">Video</a> | 
+<a href="https://www.youtube.com/watch?v=QoctozRxOYU" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/THE-HOLE.dsk" target="_blank">Play (write the command run"thehole1".bas)</a> | 
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
@@ -106,7 +108,7 @@ Survival Rooms
 <img src="images/Troubled-River.PNG" width="300" />
 
 
-<a href="https://www.youtube.com/watch?v=MWiq-YC4OyU" target="_blank">Video</a> | 
+<a href="https://www.youtube.com/watch?v=k-UQVxZzBMA" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/troubleriver.dsk" target="_blank">Play (write run"mares.bas")</a> | 
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
@@ -170,7 +172,7 @@ Survival Rooms
 
 
 
-<a href="https://www.youtube.com/watch?v=SqCZQ0ySv5U&t=58s" target="_blank">Video</a> | 
+<a href="https://www.youtube.com/watch?v=VdO4cxWi_H0&t=232s" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?P=RAM128,NODISK&tape=games/tristan.cas" target="_blank">Play</a> | 
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
@@ -185,7 +187,7 @@ Survival Rooms
 
 <img src="images/atrapado-en-la-mina.PNG" width="300" />
 
-<a href="https://www.youtube.com/watch?v=e07z883E8AM" target="_blank">Video</a> | 
+<a href="https://www.youtube.com/watch?v=qsbkUwAmRVs&t=221s" target="_blank">Video</a> | 
 <a href="https://www.msxgamesworld.com/software-emulator.php?id=5607" target="_blank">Play</a> | 
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
@@ -202,7 +204,7 @@ Survival Rooms
 
 
 <a href="https://www.youtube.com/watch?v=tGlfpq3yZWM" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?P=RAM128,NODISK&tape=ghost-park.cas" target="_blank">Play</a> | 
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?P=RAM128,NODISK&tape=games/ghost-park.cas" target="_blank">Play</a> | 
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
 
@@ -215,8 +217,8 @@ Survival Rooms
 <img src="images/ninja-relove.PNG" width="300" />
 
 
-<a href="https://www.youtube.com/watch?v=tGlfpq3yZWM" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?tape=ninja-relove.dsk" target="_blank">Play</a> | 
+<a href="https://www.youtube.com/watch?v=e07z883E8AM" target="_blank">Video</a> | 
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?tape=ninja-games/ninja-relove.dsk" target="_blank">Play</a> | 
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
 
