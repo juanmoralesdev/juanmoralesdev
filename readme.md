@@ -1,6 +1,6 @@
 <center>
 <img src="images/baner3.png" style="display: block; margin: 0 auto" />
-</center>
+
 
 ---
 ---
@@ -218,7 +218,7 @@ Survival Rooms
 
 
 <a href="https://www.youtube.com/watch?v=e07z883E8AM" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?tape=ninja-games/ninja-relove.dsk" target="_blank">Play</a> | 
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?tape=games/ninja-relove.dsk" target="_blank">Play</a> | 
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
 
