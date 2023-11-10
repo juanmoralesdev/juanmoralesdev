@@ -61,7 +61,6 @@ También hago videojuegos para VR basic.
 
 <a href="https://www.youtube.com/watch?v=MWiq-YC4OyU" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/Aland.dsk" target="_blank">Play</a> | 
-<a href="docs/Aland.zip">Download</a>
 <a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/Aland.dsk" target="_blank">Download</a>
 <!-- <a href="https://github.com/juanmoralesdev/Aland-returns" target="_blank">Project</a> | -->
 
@@ -81,8 +80,9 @@ También hago videojuegos para VR basic.
 
 <a href="https://www.youtube.com/watch?v=QoctozRxOYU" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/THE-HOLE.dsk" target="_blank">Play (write the command run"thehole1".bas)</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/THE-HOLEsurvival.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>-->
+
 
 
 ---
@@ -96,6 +96,7 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=XQc4_OUd9x0" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/survival.dsk" target="_blank">Play</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/ghost-park.cas" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
 <a href="" target="_blank">Download</a>-->
 
@@ -112,8 +113,9 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=k-UQVxZzBMA" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/troubleriver.dsk" target="_blank">Play (write run"mares.bas")</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/troubleriver.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>-->
+
 
 
 
@@ -128,8 +130,9 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=2sB6jocbDIw" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/thenurse.dsk" target="_blank">Play (write run"nurse.bas")</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/thenurse.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>-->
+
 
 ---
 
@@ -144,8 +147,9 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=whEHgEa8UXA&t=558s" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/Demonia.dsk" target="_blank">Play</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/Demonia.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>-->
+
 
 
 ---
@@ -159,8 +163,9 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=SqCZQ0ySv5U&t=58s" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?P=RAM128,NODISK&tape=games/TAMARI.cas" target="_blank">Play</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/TAMARI.cas" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>-->
+
 
 
 ---
@@ -176,8 +181,9 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=VdO4cxWi_H0&t=232s" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?P=RAM128,NODISK&tape=games/tristan.cas" target="_blank">Play</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/tristan.cas" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>-->
+
 
 
 ---
@@ -191,8 +197,9 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=qsbkUwAmRVs&t=221s" target="_blank">Video</a> | 
 <a href="https://www.msxgamesworld.com/software-emulator.php?id=5607" target="_blank">Play</a> | 
+<!--<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/Demonia.dsk" target="_blank">Download</a>-->
 <!--<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>-->
+
 
 ---
 
@@ -207,8 +214,9 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=tGlfpq3yZWM" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?P=RAM128,NODISK&tape=games/ghost-park.cas" target="_blank">Play</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/ghost-park.cas" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>-->
+
 
 ---
 
@@ -221,7 +229,8 @@ Survival Rooms
 
 <a href="https://www.youtube.com/watch?v=e07z883E8AM" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?tape=games/ninja-relove.dsk" target="_blank">Play</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/ninja-relove.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | 
-<a href="" target="_blank">Download</a>-->
+
 
 </div>
