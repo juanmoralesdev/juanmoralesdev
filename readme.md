@@ -61,7 +61,7 @@ También hago videojuegos para VR basic.
 
 <a href="https://www.youtube.com/watch?v=MWiq-YC4OyU" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/Aland.dsk" target="_blank">Play</a> | 
-<a href="https://github.com/juanmoralesdev/Aland-returns" target="_blank">Project</a> | 
+<!-- <a href="https://github.com/juanmoralesdev/Aland-returns" target="_blank">Project</a> | -->
 <a href="https://github.com/juanmoralesdev/Aland-returns/releases/tag/v1.0.0" target="_blank">Download</a>
 
 <!--![Download](https://img.shields.io/github/downloads/juanmoralesdev/Aland-returns/v1.0.0/total)-->
