@@ -155,6 +155,24 @@ También hago videojuegos para VR basic.
 
 ---
 
+### Rescate logo
+
+<!--2020-->
+
+
+<img src="images/rescate-logo.PNG" width="300" />
+
+
+
+<a href="https://www.youtube.com/watch?v=CIsbUxq7KtQ&t=12s" target="_blank">Video</a> | 
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/Demonia.dsk" target="_blank">Play</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/RescatelogoV2.dsk" target="_blank">Download</a>
+<!--<a href="" target="_blank">Project</a> |  -->
+
+
+
+---
+
 ### Tamari
 
 <!--2021-->
@@ -197,8 +215,8 @@ También hago videojuegos para VR basic.
 <img src="images/atrapado-en-la-mina.PNG" width="300" />
 
 <a href="https://www.youtube.com/watch?v=qsbkUwAmRVs&t=221s" target="_blank">Video</a> | 
-<a href="https://www.msxgamesworld.com/software-emulator.php?id=5607" target="_blank">Play</a> | 
-<!--<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/Demonia.dsk" target="_blank">Download</a>-->
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/Atrapado_en_la_mina.dsk" target="_blank">Play</a> | 
+<!--<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/Atrapado_en_la_mina.dsk" target="_blank">Download</a>-->
 <!--<a href="" target="_blank">Project</a> |  -->
 
 
