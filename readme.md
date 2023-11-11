@@ -165,7 +165,7 @@ También hago videojuegos para VR basic.
 
 
 <a href="https://www.youtube.com/watch?v=CIsbUxq7KtQ&t=12s" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/Demonia.dsk" target="_blank">Play</a> | 
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/RescatelogoV2.dsk" target="_blank">Play</a> | 
 <a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/RescatelogoV2.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> |  -->
 
@@ -216,7 +216,7 @@ También hago videojuegos para VR basic.
 
 <a href="https://www.youtube.com/watch?v=qsbkUwAmRVs&t=221s" target="_blank">Video</a> | 
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/Atrapado_en_la_mina.dsk" target="_blank">Play</a> | 
-<!--<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/Atrapado_en_la_mina.dsk" target="_blank">Download</a>-->
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/Atrapado_en_la_mina.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> |  -->
 
 
