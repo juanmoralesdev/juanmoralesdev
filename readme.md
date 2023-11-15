@@ -80,7 +80,7 @@ También hago videojuegos para VR basic.
 <img src="images/the-hole.PNG" width="300" />
 
 <a href="https://www.youtube.com/watch?v=QoctozRxOYU" target="_blank">Video</a> | 
-<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/THE-HOLE.dsk" target="_blank">Play (write the command run"thehole1".bas)</a> | 
+<a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/THE-HOLE.dsk" target="_blank">Play (write run"thehole1.bas")</a> | 
 <a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/THE-HOLE.dsk" target="_blank">Download</a>
 <!--<a href="" target="_blank">Project</a> | -->
 
