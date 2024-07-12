@@ -14,12 +14,12 @@
 I'm a MSX fan.
 An 8-bit home microcomputer standard marketed during the 1980s.
 I mahe videogames in MSX basic.
-I also make video games for VR basic.
+
 
 Soy un seguidor del sistema MSX.
 Un estándar de microordenador doméstico de 8 bits comercializado durante los años 1980.
 Lo que más me gusta es la programación MSX Basic.
-También hago videojuegos para VR basic.
+
 
 ---
 ---
