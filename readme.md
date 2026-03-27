@@ -54,6 +54,7 @@ Lo que más me gusta es la programación MSX Basic.
 <div align="center">
 ### Tamari, misterio en el castillo MSX-VR version
 
+
 <!--2024-->
 
 <img src="images/tamari-msxvr.PNG" width="300" />
@@ -78,7 +79,7 @@ Lo que más me gusta es la programación MSX Basic.
 <!--<a href="" target="_blank">Project</a> |  -->
 
 
-</div>
+
 
 ---
 
