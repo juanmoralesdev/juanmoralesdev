@@ -53,9 +53,26 @@ Lo que más me gusta es la programación MSX Basic.
 
 <div align="center">
 
+
+### La gruta MSX-VR game
+
+<!--2026-->
+
+<img src="images/la-gruta.PNG" width="300" />
+
+<a href="https://www.youtube.com/watch?v=yXQv6JVD5rc" target="_blank">Video</a> | 
+<a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/La-gruta.zip" target="_blank">Download</a>
+<!--<a href="" target="_blank">Project</a> |  -->
+
+
+---
+
+
+
+
 ### Tamari, misterio en el castillo MSX-VR version
 
-<!--2024-->
+<!--2025-->
 
 <img src="images/tamari-msxvr.PNG" width="300" />
 
@@ -66,9 +83,9 @@ Lo que más me gusta es la programación MSX Basic.
 
 ---
 
-### Gohost park MSX-VR version
+### Ghostpark MSX-VR version
 
-<!--2025-->
+<!--2024-->
 
 <img src="images/ghostpark-msxvr.PNG" width="300" />
 
@@ -92,6 +109,8 @@ Lo que más me gusta es la programación MSX Basic.
 <a href="https://juanmoralesdev.github.io/juanmoralesdev/?disk=games/river.dsk" target="_blank">Play</a> | 
 <a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/river.dsk" target="_blank">Download</a>
 
+
+---
 
 ### Aland Returns 
 
