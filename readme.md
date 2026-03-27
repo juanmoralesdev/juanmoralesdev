@@ -52,13 +52,12 @@ Lo que más me gusta es la programación MSX Basic.
 ## My games
 
 <div align="center">
-### Tamari, misterio en el castillo MSX-VR version
 
+### Tamari, misterio en el castillo MSX-VR version
 
 <!--2024-->
 
 <img src="images/tamari-msxvr.PNG" width="300" />
-
 
 <a href="https://www.youtube.com/watch?v=iPizfAMhYb0" target="_blank">Video</a> | 
 <a href="https://github.com/juanmoralesdev/juanmoralesdev/releases/download/v1.0.0/Tamari-misterio-en-el-castillo.zip" target="_blank">Download</a>
